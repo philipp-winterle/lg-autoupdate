@@ -8,3 +8,6 @@ Tested with lightgallery jQuery Plugin Version: **1.3.5** but can work with olde
 
 ## Usage
 After new images to the container the "refreshItems" - Event should be triggered on it and you are done.
+
+## Example
+https://jsfiddle.net/hummal/709k3cqe/
